@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 
 public class Main {
-
+//hello
     private static String Tweet_Type = "Service call";
     private static String Thing_ID = "Hao01";
     private static String Space_ID = "HaoSpace01";
